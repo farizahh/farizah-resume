@@ -1,16 +1,26 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built to showcase my background, skills, and selected projects in frontend web development. The website is fully responsive and designed to present information clearly across different screen sizes.
 
-Currently, two official plugins are available:
+## 🌐 Live Website
+You can access the portfolio through the following link:  
+👉 **[https://your-portfolio-link.com](https://your-portfolio-link.com)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React + Vite
+- Tailwind CSS
+- DaisyUI
+- React Icons
 
-## React Compiler
+## ✨ Features
+- Responsive layout (mobile, tablet, desktop)
+- Project showcase with external links
+- Education timeline
+- Contact section with social media links
+- Clean and modern UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📬 Hiring & Contact
+If you are interested in hiring me or collaborating on a project, feel free to reach out via email:  
+📧 **your.email@example.com**
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Thank you for visiting my portfolio!
