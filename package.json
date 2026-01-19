@@ -1,19 +1,22 @@
 {
   "name": "portofolio",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
+  "homepage": "https://farizahh.github.io/farizah-resume/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fontsource/poppins": "^5.2.7",
     "@tailwindcss/vite": "^4.1.18",
     "flowbite": "^4.0.1",
     "flowbite-react": "^0.12.16",
+    "gh-pages": "^6.3.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-icons": "^5.5.0",
